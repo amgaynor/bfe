@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "eslint": ">=7.12.1",
-    "express": "^4.17.1",
     "serve-static": "^1.13.2"
   },
   "bugs": {
@@ -38,6 +37,7 @@
     "grunt-contrib-concat": "^1.x.x",
     "grunt-contrib-cssmin": "^3.x.x",
     "grunt-contrib-uglify-es": "^3.x.x",
+    "express": "^4.17.1",
     "lodash": "^4.17.19"
   }
 }
